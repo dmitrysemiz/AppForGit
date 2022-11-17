@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //1
         //2
+        println("some code on top of step 2 in separate branch")
     }
 }
