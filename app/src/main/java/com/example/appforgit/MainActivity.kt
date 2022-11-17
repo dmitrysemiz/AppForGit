@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         //1
         //2
         println("some code on top of step 2 in separate branch")
+        println("more code")
     }
 }
